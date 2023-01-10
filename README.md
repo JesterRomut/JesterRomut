@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 四只巨械v
 <br>选择你的御三家<br>
 
-![宝可梦博士之爱丽嘉登.gif](AgnesTachyon.gif)
+![宝可梦博士之爱丽嘉登\.gif](AgnesTachyon.GIF "宝可梦博士之爱丽嘉登\.gif")
 ~~<sub>我们赛马娘怎么你了</sub>~~
 
 ![xm05](https://calamitymod.wiki.gg/images/c/c2/Thanatos_Selection_Icon.png "xm05.png") 塔纳托斯，一条拥有数不清的激光炮和盔甲的蛇形梦魇
