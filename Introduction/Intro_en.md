@@ -54,7 +54,7 @@ If you already know these are public discomforts in china and still love them an
 - Games of Project Moon (Lobotomy C & LoR etc.) ←There are lots of mental illnesses in PMoon players in chinese internet, and they do cyberbully (yes, i got cyberbullied from them). They are especially neurotic and masters of rumor spreading
 
 
-(Attention level: If you have any of these, I may pay extra attention of you to prevent suddenly nitian)
+(Attention level: If you have any of these, I may pay extra attention of you to prevent suddenly unexpected behaviors)
 
 
 - Aotu world

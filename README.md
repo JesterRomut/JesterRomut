@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 伟大而✰萌萌可爱的「✰嘉登糖✰」闪亮登场！<br>
 （最讨人喜欢了！以前的页面死气沉沉的捉弄了好多人呢♥）
 
-对本座有异议的～✰可以去discussion讨论，但是请好好阅读README.md哟～✰否则不会受理的说
+对本座有异议的～✰可以去本repo的discussion讨论，但是请好好阅读README.md哟～✰否则不会受理的说
 
 ### Introduction 介绍
 
