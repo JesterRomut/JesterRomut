@@ -5,22 +5,14 @@ You can click the Preview link to take a look at your changes.
 > 睿智✰留学生闪耀✰着陆！<br>
 > 成为睿智✰程序螈之路由刷题和996开始！
 
-
-伟大而✰萌萌可爱的「✰嘉登糖✰」闪亮登场！<br>
-（最讨人喜欢了！以前的页面死气沉沉的捉弄了好多人呢♥）
-
-对本座有异议的～✰可以去本repo的discussion讨论，但是请好好阅读README.md哟～✰否则不会受理的说
-
-### Introduction 介绍
-
-[中文介绍在此](Introduction/Intro_zh.md)
-<br>
-[English introduction here](Introduction/Intro_en.md)
-
-
-### Awesome✰Contacts 超赞✰联系方式！
-邮箱: lxcmoriah@gmail.com<br>
-qq: 295268142
+FILE NOT FOUND
+ERROR
+ERROR
+ERROR
+ERROR
+ERROR
+HAE00ENF
+2022/4/15
 
 四只巨械v
 <br>选择你的御三家<br>
@@ -35,6 +27,9 @@ qq: 295268142
 <br>
 
 ![0103](https://calamitymod.wiki.gg/images/6/69/Artemis_and_Apollo_Selection_Icon.png "0103.png") 阿尔忒弥斯和阿波罗，一对超级执着的有不稳定能量的战斗机
+<br>
+
+![00](https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Hypnos_Selection_Icon.png "00.png") 修普诺斯，血肉和钢铁的缝合怪，带着
 <br>
 
 *TIME IS SIGHT. GRAVITY IS DESIRE.*
