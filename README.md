@@ -29,7 +29,7 @@ HAE00ENF
 ![0103](https://calamitymod.wiki.gg/images/6/69/Artemis_and_Apollo_Selection_Icon.png "0103.png") 阿尔忒弥斯和阿波罗，一对超级执着的有不稳定能量的战斗机
 <br>
 
-![00](https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Hypnos_Selection_Icon.png "00.png") 修普诺斯，血肉和钢铁的缝合怪，带着
+![00](https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Hypnos_Selection_Icon.png "00.png") 修普诺斯，带着许多跟班的暴虐的血肉和钢铁的缝合怪
 <br>
 
 *TIME IS SIGHT. GRAVITY IS DESIRE.*
