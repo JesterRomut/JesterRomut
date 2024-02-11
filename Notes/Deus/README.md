@@ -29,8 +29,10 @@ It used to be the Star God, consuming these stars before the Astral Infection ma
 
 Thus, it got killed by the Devourer of Gods, lower half and all innards was eaten.
 
-Now, it's co-existing with the disease, have lower body grown back, but the innards got replaced by the infection. Its spine bloats like a heart, in the chest cavity, makes it look a little more substantial.
+Now, it's co-existing with the disease, have lower body grown back, but the innards got replaced by the infection. Its spine bloats like a heart, in the chest cavity opened by a incurable wound, makes it look a little more substantial.
 
 ~~The god who originally cleaned up the infection finally signed a contract with the most annoying infection under the pressure of DoG.~~
 
 Wished a heart, but everything goes inside it will be consumed by the infection, including things it ate.
+
+Still, it will put everything which looked like a heart into its chest cavity.
