@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 [巨械人物设定](Notes/Exos)
 [星辉系列人物设定](Notes/Deus)
+[始源系列人物设定](Notes/Primordials)
 
 FILE NOT FOUND
 ERROR
