@@ -1,11 +1,14 @@
-﻿## Invoked Star God
+﻿## Primordial Star God
 > 呼び出された星の神
 ![](Illustration35_3.png)
+> "stars" / "future"
 
 据说看见就会带来好运，人们也常常向它许愿。
 
+已被神明吞噬者肢解。它的残骸变成了[星神游龙](..\Primordials\README.md)。，
 
 ## Ὕπνος
+> "sleep" / "past"
 
 ~~疑似是上一个穿越到泰安世界的人~~
 
@@ -24,24 +27,13 @@
 ## Goozma
 > クーズマ
 ![](Illustration23.png)
-![](Illustration32_1.png)
+> "slimes" / "chroma"
 
-真·史莱姆之神。平时只有一个灵魂藏匿在雕像附近，有重大事件时，才会融合所有史莱姆并现身。（像基格尔德那样）
+真·史莱姆之神。平时以一种以太的状态平均地分布在世界的每一个角落，有重大事件时，才会融合所有史莱姆并现身。（像基格尔德那样）
+<br>
+因为太老了没有学明白现代语言，只会讲老的（文言文 / 莎士比亚英文），再掺杂一些现代的
 
-有一双很傻的眼睛。
+第三只眼才是本体。
 
-## Ὕπνος
 
-~~Suspected to be the last person who traveled to the world of Terraria~~
-
-The evil god was killed by Draedon using unknown means, and its brain was cleared of memory and made into XP-00 Hypnos
-
-Other nerves were made into dream catchers and hung in front of Draedon's bed...
-
-Falling asleep next to a dream catcher can help you see past events and gain enlightenment.
-
-But the evil god desires revenge.
-
-After using enlightenment to arouse Draedon's interest, it launched a fatal blow and took away Draedon's soul of love.
-
-From then on, Draedon became the mad scientist, the beast in disguise.
+视末世星为异种（蛮夷！），非常鄙视它
