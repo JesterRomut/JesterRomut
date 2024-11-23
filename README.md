@@ -2,12 +2,7 @@
 JesterRomut/JesterRomut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-> 睿智✰留学生闪耀✰着陆！<br>
-> 成为睿智✰程序螈之路由刷题和996开始！
-
-[巨械人物设定](Notes/Exos)
-[星辉系列人物设定](Notes/Deus)
-[始源系列人物设定](Notes/Primordials)
+[jesterromut.icu](https://jesterromut.icu)
 
 FILE NOT FOUND
 ERROR
